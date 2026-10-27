@@ -29,7 +29,7 @@ SARPROC is run by the team **Earth Observation and Environmental Informatics** o
 | **Sentinel-1** | Copernicus Sentinel-1 | C | ESA SNAP processing of large areas and long time series on an HPC cluster |
 | **BIOMASS** | ESA BIOMASS | P | finds products in the ESA MAAP catalogue, checks stack coverage, runs the BIOMASS Processing Suite from L0 to L2A forest products, and SAR tomography |
 | **TanDEM-X** | DLR TanDEM-X | X | planned |
-| **NISAR** | NASA-ISRO NISAR | L, S | planned |
+| **NISAR** | NASA-ISRO NISAR | L | in development: L-band backscatter and 12-day coherence per date and pass for an area of interest, from the open NISAR GCOV and GUNW products |
 
 ## How we work
 
