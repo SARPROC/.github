@@ -8,6 +8,7 @@
 [![BIOMASS: P-band](https://img.shields.io/badge/BIOMASS-P--band-2E7D32?style=flat-square)](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass)
 [![TanDEM-X: X-band](https://img.shields.io/badge/TanDEM--X-X--band-6A1B9A?style=flat-square)](https://www.dlr.de/en/research-and-transfer/projects-and-missions/tandem-x)
 [![NISAR: L and S-band](https://img.shields.io/badge/NISAR-L%20%2B%20S--band-C62828?style=flat-square)](https://nisar.jpl.nasa.gov)
+[![SAOCOM: L-band](https://img.shields.io/badge/SAOCOM-L--band-1565C0?style=flat-square)](https://earth.esa.int/eogateway/missions/saocom)
 <br>
 [![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![ESA SNAP](https://img.shields.io/badge/ESA-SNAP-003247?style=flat-square)](https://step.esa.int/main/toolboxes/snap/)
@@ -30,6 +31,7 @@ SARPROC is run by the team **Earth Observation and Environmental Informatics** o
 | **BIOMASS** | ESA BIOMASS | P | finds products in the ESA MAAP catalogue, checks stack coverage, runs the BIOMASS Processing Suite from L0 to L2A forest products, and SAR tomography |
 | **TanDEM-X** | DLR TanDEM-X | X | planned |
 | **NISAR** | NASA-ISRO NISAR | L | in development: L-band backscatter and 12-day coherence per date and pass for an area of interest, from the open NISAR GCOV and GUNW products |
+| **SAOCOM** | CONAE SAOCOM | L | planned |
 
 ## How we work
 
